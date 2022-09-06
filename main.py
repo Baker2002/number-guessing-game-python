@@ -33,6 +33,7 @@ def guess(input):
             print("You lose")
             break
 
+
 print("Number guessing game.")
 print("Choose a number between 1 and 100.")
 unos = input("Choose a difficulty. Type 'easy' or 'hard': ")
